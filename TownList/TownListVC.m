@@ -6,13 +6,13 @@
 //  Copyright © 2017 Alexander Drovnyashin. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "TownListVC.h"
 
-@interface ViewController ()
+@interface TownListVC ()
 
 @end
 
-@implementation ViewController
+@implementation TownListVC
 
 - (void)viewDidLoad {
     [super viewDidLoad];
